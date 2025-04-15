@@ -2,7 +2,7 @@
   <img src="https://envs.sh/zOY.jpg" alt="REENUBOT-V1 Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  REENUBOT-V1 
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
